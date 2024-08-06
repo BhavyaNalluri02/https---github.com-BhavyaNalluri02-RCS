@@ -3,5 +3,5 @@ https://areteanstechnologyltd01.pegalabs.io/prweb/PRRestService/c11nsvc/v1/pega-
 ></script>
 <pega-embed id='theEmbed' action='createCase' caseTypeID='Aret-Procurement-Work-Registration' casePage='assignment' appAlias='procurement' pegaServerUrl='
 https://areteanstechnologyltd01.pegalabs.io/prweb/'
-grantType='none' style='width:100%'>
+autoReauth='true' authService='pega' clientId='11197450920590210297' style='width:100%'>
 </pega-embed>
